@@ -1,0 +1,4 @@
+outs:
+- md5: 5b9f86103d196e5359ff10b037cc39d6
+  size: 749
+  path: test.py
